@@ -16,9 +16,13 @@ A few language that we discuss for programming:
 - Julia
 
 Tables are also helpful
+|Syntax | Description |
 |Column 1|Column 2|
 |--------|--------|
-|row 1   |
+|row 1   |value 1 |
+|row 2   |value 2 |
+|row 3   |value 3 |
+
 ## Level 2 Heading
 
 This is my text under level 2
